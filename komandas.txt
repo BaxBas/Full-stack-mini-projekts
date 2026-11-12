@@ -1,0 +1,5 @@
+'cd my-app' - ieiet mapē "my-app" caur termināli
+'php artisan serve' - uzsāk lokālo serveri
+'php artisan migrate:fresh --seed' - veic datu migrāciju uz datubāzi un izveido nejaušus ierakstus tabulās
+'php artisan migrate:rollback' - pāriet uz iepriekšējo datubāzes migrācijas versiju
+'php artisan make:model [modeļa nosaukums ar lielo sākumburtu] -mfs ' - izveido jaunu eloquent modeli un tā migration, factory un seeder failus
