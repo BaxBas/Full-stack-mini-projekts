@@ -1,7 +1,7 @@
 # Par projektu
 
-"Educational progress" ir akadēmiskā progresa mājaslapa, kurā lietotājs var sekot līdzi savu priekšmetu/studiju progresam. <br>
-Šī mājaslapa palīdz izsekot līdzi savam progresam katrā priekšmetā, uzrādot iegūto atzīmju progresu un kopējo vidējo atzīmi (bez un ar svaru).
+"Educational progress" ir maza un vienkārša mājaslapa, kurā lietotājs var sekot līdzi savu priekšmetu/studiju progresam. <br>
+Šī mājaslapa palīdz izsekot līdzi savam progresam katrā izveidotajā priekšmetā, uzrādot progresu (iegūts no iegūto atzīmju skaita) un vidējo atzīmi (ar un bez svara).
 <img width="1236" height="746" alt="image" src="https://github.com/user-attachments/assets/110f2e3b-dfca-4b7b-ba90-29facf6a6ca0" />
 
 Priekšmetus var arī organizēt pēc paša izveidotajām grupām, lai tos būtu vieglāk pārskatīt:
